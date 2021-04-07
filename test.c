@@ -8,6 +8,10 @@ int mult(int a, int b){
     return a*b;
 }
 
+int square(int a){
+    return a*a;
+}
+
 int main(void){
     return 0;
 }
